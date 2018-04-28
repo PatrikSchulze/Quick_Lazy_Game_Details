@@ -34,6 +34,7 @@ Its gonna take just a second
 
 
 ![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/update-files.jpg "Click this")
+
 You can select where the tool should save to files to. This is where OBS will grab the files from.
 
 ![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/files.jpg "Exported files")
@@ -64,6 +65,7 @@ Otherwise tell me.
 In OBS you can set a custom size for text fields
 
 ![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/obs_textSize.jpg "Custom text area size")
+
 This way, no matter how much text comes out as a title or description, you can just keep it within those bounds. Play around with it.
 
 Similarly you can do this with images, like shown below and you probably will need to because covers vary in size and even shape (like long boxes)
