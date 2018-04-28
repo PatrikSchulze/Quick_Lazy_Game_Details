@@ -73,7 +73,9 @@ Use the Update Files button to create the files for OBS.
 
 
 This tool will create the files seen above.
+
 For the cover you just use that image, select its path.
+
 For text you can do the very same, use a text file instead of typing in text yourself.
 
 
