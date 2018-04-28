@@ -57,6 +57,7 @@ Select the game of your choosing.
 
 
 You can select where the tool should save to files to. This is where OBS will grab the files from.
+
 Use the Update Files button to create the files for OBS.
 
 
