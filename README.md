@@ -1,4 +1,4 @@
-**[Download Quick Lazy Game Details v2.2 here](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/raw/master/QuickLazyGameDetails.exe "Download Quick Lazy Game Details v2.2 here")**
+![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/download.png "") **[Download Quick Lazy Game Details v2.2 here](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/raw/master/QuickLazyGameDetails.exe "Download Quick Lazy Game Details v2.2 here")**
 
 
 
