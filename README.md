@@ -35,7 +35,7 @@ You simply search for the title. The tool uses GiantBomb.com to aggregate the da
 
 
 
-### How to use
+## How to use
 
 It's a windows executable. Open it. 
 
