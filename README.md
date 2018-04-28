@@ -24,6 +24,8 @@ However if you change the game you have to do the whole process over manually.
 You simple search for the title. The tool uses GiantBomb.com to aggregate the data and finds all the data you would want:
 Title, release date, cover image, publisher, developer and a description.
 
+
+
 ### How to use
 
 It's a windows executable. Open it. 
@@ -75,8 +77,11 @@ Because of GiantBomb's search algorithm, even typos are no problem.
 ![alt text](https://static-cdn.jtvnw.net/emoticons/v1/88/1.0 "PogChamp")
 
 
-####*If you encounter errors, its usually internet or GiantBomb related, so just try again*####
+
+#### * If you encounter errors, its usually internet or GiantBomb related, so just try again * ####
+
 Otherwise tell me.
+
 
 ### Tips
 
