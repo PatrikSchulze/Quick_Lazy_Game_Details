@@ -25,8 +25,13 @@ However if you change the game you have to do the whole process over manually.
 ![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/img/2.jpg "Automation")
 
 
-You simple search for the title. The tool uses GiantBomb.com to aggregate the data and finds all the data you would want:
-Title, release date, cover image, publisher, developer and a description.
+You simply search for the title. The tool uses GiantBomb.com to aggregate the data and finds all the data you would want:
+* Title
+* Release date
+* Cover image
+* Publisher
+* Developer
+* Description
 
 
 
