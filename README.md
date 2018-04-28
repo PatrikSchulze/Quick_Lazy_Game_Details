@@ -1,7 +1,8 @@
 # Quick Lazy Game Details
 
-This is a tool to easily display game related data on your stream, but it could be used for other putposes too.
-If you want to display game related info or cover, as seen on the example below:
+This is a tool to easily display game related data on your stream. This example shows usage with OBS.
+
+Assume you want to display game related info or cover, as seen in the example below:
 
 ![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/1.jpg "Easy app")
 
