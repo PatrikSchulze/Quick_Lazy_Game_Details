@@ -1,3 +1,7 @@
+**[Download Quick Lazy Game Details v2.2 here](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/raw/master/QuickLazyGameDetails.exe "Download Quick Lazy Game Details v2.2 here")**
+
+
+
 # Quick Lazy Game Details
 
 This is a tool to easily display game related data on your stream. This example shows usage with OBS.
