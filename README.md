@@ -4,7 +4,7 @@
 
 # Quick Lazy Game Details
 
-This is a tool to easily display game related data on your stream. This example shows usage with OBS.
+Quick Lazy Game Details is a tool to easily display game related data on your stream. This example shows usage with OBS.
 
 Assume you want to display game related info or cover, as seen in the example below:
 
