@@ -12,6 +12,10 @@ Assume you want to display game related info or cover, as seen in the example be
 ![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/img/1.jpg "Easy app")
 
 
+![alt text](https://media.giphy.com/media/3JReohmwcvGrH0AowN/giphy.gif "Automation")
+
+
+
 This is fairly easy to setup: You get the info and the picture and embed it all.
 
 However if you change the game you have to do the whole process over manually.
@@ -24,8 +28,6 @@ However if you change the game you have to do the whole process over manually.
 
 ![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/img/2.jpg "Automation")
 
-
-![alt text](https://media.giphy.com/media/3JReohmwcvGrH0AowN/giphy.gif "Automation")
 
 
 You simply search for the title. The tool uses GiantBomb.com to aggregate the data and finds all the data you would want:
