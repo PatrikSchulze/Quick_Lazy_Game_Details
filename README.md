@@ -50,10 +50,17 @@ Its gonna take just a second
 ![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/img/findinggames.jpg "Wait")
 
 
-![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/img/update-files.jpg "Click this")
+Select the game of your choosing.
+
+
+![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/img/select_game.jpg "Wait")
 
 
 You can select where the tool should save to files to. This is where OBS will grab the files from.
+Use the Update Files button to create the files for OBS.
+
+
+![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/img/update-files.jpg "Click this")
 
 
 ![alt text](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/blob/master/img/files.jpg "Exported files")
