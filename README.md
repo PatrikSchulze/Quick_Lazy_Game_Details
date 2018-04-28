@@ -78,7 +78,7 @@ Because of GiantBomb's search algorithm, even typos are no problem.
 
 
 
-** _If you encounter errors, its usually internet or GiantBomb related, so just try again_ **
+_If you encounter errors, its usually internet or GiantBomb related, so just try again_
 
 Otherwise tell me.
 
