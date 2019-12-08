@@ -1,4 +1,4 @@
- **[![alt text][dlicon]  Download Quick Lazy Game Details v2.2 here](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/raw/master/img/QuickLazyGameDetails.exe "")**
+ **[![alt text][dlicon]  Download Quick Lazy Game Details vDec8-2019 here](https://github.com/PatrikSchulze/Quick_Lazy_Game_Details/raw/master/img/QuickLazyGameDetails.exe "")**
 
 
 
